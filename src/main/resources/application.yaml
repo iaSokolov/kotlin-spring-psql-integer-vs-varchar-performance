@@ -11,5 +11,5 @@ spring:
         dialect=org:
           hibernate:
             dialect: org.hibernate.dialect.PostgreSQLDialect
-    hibernate:
-      ddl-auto: create
+#    hibernate:
+#      ddl-auto: create
